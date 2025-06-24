@@ -34,5 +34,14 @@ Admins have additional functionalities:
    ```bash
    git clone https://github.com/yourusername/carrental.git
 
+2. **Set up the MySQL database**
+- Create a database named carrental (or any name of your choice)
+- Import the provided .sql file if available
+- Or manually create tables based on the project’s logic
 
+Configure database credentials
+
+    Open connection.php
+
+    Replace the placeholders with your local MySQL credentials:
 
