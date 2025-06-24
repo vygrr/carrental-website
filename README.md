@@ -31,7 +31,7 @@ Admins have additional functionalities:
 ## 🚀 How to Run Locally
 
 1. **Clone the repository:**
-   ```bash
+      ```bash
    git clone https://github.com/yourusername/carrental.git
 
 2. **Set up the MySQL database**
@@ -44,9 +44,9 @@ Admins have additional functionalities:
    - Replace the placeholders with your local MySQL credentials
 
 4. **Run the project**
-   - Using XAMPP, WAMP, or PHP built-in server:
-    ```bash
-   git clone https://github.com/yourusername/carrental.git
+   - Using XAMPP, WAMP, or PHP built-in server:   
+       ```bash   
+      git clone https://github.com/yourusername/carrental.git
    - Open your browser and visit:
 http://localhost:8000/index.php
 
