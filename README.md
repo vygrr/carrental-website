@@ -39,9 +39,14 @@ Admins have additional functionalities:
 - Import the provided .sql file if available
 - Or manually create tables based on the project’s logic
 
-Configure database credentials
+3. **Configure database credentials**
+- Open connection.php
+- Replace the placeholders with your local MySQL credentials
 
-    Open connection.php
-
-    Replace the placeholders with your local MySQL credentials:
+4. **Run the project**
+- Using XAMPP, WAMP, or PHP built-in server:
+    ```bash
+   git clone https://github.com/yourusername/carrental.git
+- Open your browser and visit:
+http://localhost:8000/index.php
 
