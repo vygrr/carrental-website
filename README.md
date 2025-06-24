@@ -28,7 +28,7 @@ Admins have additional functionalities:
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository:**
       ```bash
