@@ -35,18 +35,18 @@ Admins have additional functionalities:
    git clone https://github.com/yourusername/carrental.git
 
 2. **Set up the MySQL database**
-- Create a database named carrental (or any name of your choice)
-- Import the provided .sql file if available
-- Or manually create tables based on the project’s logic
+   - Create a database named carrental (or any name of your choice)
+   - Import the provided .sql file if available
+   - Or manually create tables based on the project’s logic
 
 3. **Configure database credentials**
-- Open connection.php
-- Replace the placeholders with your local MySQL credentials
+   - Open connection.php
+   - Replace the placeholders with your local MySQL credentials
 
 4. **Run the project**
-- Using XAMPP, WAMP, or PHP built-in server:
+   - Using XAMPP, WAMP, or PHP built-in server:
     ```bash
    git clone https://github.com/yourusername/carrental.git
-- Open your browser and visit:
+   - Open your browser and visit:
 http://localhost:8000/index.php
 
