@@ -1,4 +1,4 @@
-# CarRental Portal
+# Electric Car Rental Portal
 
 This is a web-based Electric Car Rental Management System developed by our group as part of the **E-Commerce** course in our 3rd year of engineering.
 
