@@ -1,3 +1,38 @@
-This is a project made by a group of Second year students of Pillai College of Engineering, New Panvel the project is about a electric car rental website . 
-this have a landing page ,login , sign-in , about , home-page , market , add-cars 
-the user will have to make an account to rent car from platform also can add his cars to make money out of them 
+# CarRental Portal
+
+This is a web-based Electric Car Rental Management System developed by our group as part of the **E-Commerce** course in our 3rd year of engineering.
+
+## Live Site
+
+Visit the website here: (https://autoelegance.sbs)
+
+## Project Overview
+
+Our portal allows users to:
+- Register and log in
+- Browse available cars
+- Book a car for rental
+- View booking confirmation
+
+Admins have additional functionalities:
+- Add new cars to the system
+- Delete cars from the listing
+
+---
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS
+- **Backend**: PHP
+- **Database**: MySQL
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/carrental.git
+
+
+
